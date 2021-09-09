@@ -1,0 +1,70 @@
+<div class="row">
+        <div class="col-lg-4">
+          <svg class="bd-placeholder-img rounded-circle" width="140" height="140" src="webd.png" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text>
+            <image href="webd.png"  height="500px" width="500px"/>
+          </svg>
+        
+  
+          <h2>Heading</h2>
+          <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+          <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+  
+          <h2>Heading</h2>
+          <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
+          <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+  
+          <h2>Heading</h2>
+          <p>And lastly this, the third column of representative placeholder content.</p>
+          <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="container">
+    <div class="row my-2">
+      <div class="col-lg-4">
+        
+        <a href="certificate.html" style="color: black;"><img src="webd.png"  alt="" class="certificate">
+        </a><br>
+        <br>
+        <p class="card-para">These are the certificates achieved by me during my college in various fields of specialization <br>
+        kindly click to explore
+        </p>
+        <p><a class="btn btn-secondary btn-success " href="certificate.html" role="button">click to see my certificates »</a>
+        </p>
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+      
+        <a href="photos.html" style="color: black;"><img src="im9.jpg" class="photos"alt="">
+        </a>
+        <br><br>
+        <p class="card-para">These are some of the memorable photos of my family ,friends and my college.This is beautiful time which i can capture. <br>
+          kindly click to explore</p>
+        <p><a class="btn btn-secondary btn-success" href="photos.html" role="button">click to see my photos
+            »</a></p>
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <a href="troh.html" style="color:black;" ><img src="im14.jpeg" class="photos" alt=""></a>
+        <br><br>
+        <p class="card-para"> Sanskiriti School is founded by our College Senior Mr. Piyush Mishra. In this school we teaches students free of cost those are not financially fit to take the education .</p>
+        <p><a class="btn btn-secondary btn-success" href="troh.html" role="button">click to see Bashir Collection
+            »</a></p>
+      </div><!-- /.col-lg-4 -->
+    </div>
+  </div>
